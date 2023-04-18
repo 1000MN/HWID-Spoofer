@@ -3,6 +3,7 @@
  Our Spoofer creates a random ID within themselves and transfers it to the BIOS by connecting it to a module called SMBIOS interface.
 
 - Spoofing Games -
+
 Valorant
 Feign
 Ark Survival Evolved
